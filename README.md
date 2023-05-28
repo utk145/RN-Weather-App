@@ -10,6 +10,7 @@ This is a Weather App built with React Native and Expo having a auto-complete fu
   cd RN-Weather-App
   npm install
   expo-cli start --tunnel
+  Scan the qr-code with expo-go app
 ```
     
 ## Issues
